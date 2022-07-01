@@ -11,7 +11,12 @@ To make this more efficient, we start by creating arrays to store our outputs an
 
 From there we calculate the ticker volume, start and end price similar to our original code but changing where the data is stored. Once those are  all calculated and stored in their respective arrays, we output the data similarly to the previous code. Then we tested and compared times to the previous version
 
-![Original.png]([https://github.com/1fatpanda1/stock-analysis/blob/main/Resources/Refract_results.png])
+##Original
+
+![Original.png](https://github.com/1fatpanda1/stock-analysis/blob/main/Resources/Refract%20results.png)
+
+##VS
+
 ![Original.png](https://github.com/1fatpanda1/stock-analysis/blob/main/Resources/Original%20results.png)
 
 
