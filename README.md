@@ -22,5 +22,4 @@ From there we calculate the ticker volume, start and end price similar to our or
 
 ## Summary
 
-When ran compared to the normal code, the refract code is significantly faster than the original. This is due to eliminating the need for a nested for loop each time we search for the next ticker using the refracted code.  I imagine though that compared to the normal code, the refracted code uses more memory due to storing the data as it runs through each ticker while the normal code clears that memory each iteration. 
-
+When ran compared to the normal code, the refract code is significantly faster than the original. The refract code runs faster than the original due to eliminating the need for a nested for loop each time we switch tickers. On the other hand, I think it would use more storage memory than the original version due to storing the data before posting each result. 
