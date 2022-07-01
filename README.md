@@ -7,7 +7,7 @@ In this module we are looking to make the module 2 stock vba code more efficient
 
 To make this more efficient, we start by creating arrays to store our outputs and clearing them when the code starts in case we are analyzing multiple years.
 
-
+![arrays.png](https://github.com/1fatpanda1/stock-analysis/blob/main/Resources/Arrays.png)
 
 From there we calculate the ticker volume, start and end price similar to our original code but changing where the data is stored. Once those are  all calculated and stored in their respective arrays, we output the data similarly to the previous code. Then we tested and compared times to the previous version
 
